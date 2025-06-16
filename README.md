@@ -1,4 +1,4 @@
 # Git_Demo_Repository_Vasan
-This is my Git Repository for the Training Demo.
+This is my Git Repository for the Training.
 
 NEW LINE ADDED

@@ -5,3 +5,5 @@ This is my Git Repository. My name is Vasan Vohra.
 NEW LINE ADDED
 
 Hi, This is a new text for the new_branch merge
+
+Line added for rebase test

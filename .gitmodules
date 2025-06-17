@@ -1,0 +1,3 @@
+[submodule "submodules/test_submodule"]
+	path = submodules/test_submodule
+	url = https://github.com/sc-vasvoh/Test_Submodule.git
